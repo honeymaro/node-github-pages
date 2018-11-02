@@ -1,0 +1,38 @@
+{
+  "name": "node-github-pages",
+  "version": "0.1.0",
+  "description": "Easily convert your Node.js project to an HTML document for GitHub Pages.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "maro",
+    "email": "honeymaro@live.co.kr",
+    "url": "https://honeymaro.com"
+  },
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/honeymaro/node-github-pages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/honeymaro/node-github-pages/issues"
+  },
+  "main": "pages.js",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "keywords": [
+    "github",
+    "pages",
+    "renderer",
+    "publish",
+    "blog"
+  ],
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}
